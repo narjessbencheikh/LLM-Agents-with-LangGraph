@@ -1,6 +1,6 @@
 # LLM-Agents-with-LangGraph
 
-Building AI Agents with Open-Source LLMs
+# Building AI Agents with Open-Source LLMs
 
 In this project, I explored how to:
 
